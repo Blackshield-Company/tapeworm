@@ -1,3 +1,5 @@
+![tapeworm](.github/preview.png)
+
 # tapeworm
 
 > TUI log file analyzer — tail, grep, aggregate, and visualize log patterns in real-time with histograms and heatmaps. Think htop for logs.
