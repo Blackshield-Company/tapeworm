@@ -6,7 +6,7 @@ description = "TUI log file analyzer -- htop for logs"
 license = "Apache-2.0"
 
 [dependencies]
-ratatui = "0.26"
+ratatui = "0.30"
 crossterm = "0.27"
 clap = { version = "4.5", features = ["derive"] }
 regex = "1.10"
